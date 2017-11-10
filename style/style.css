@@ -1460,3 +1460,7 @@ a.readMore{
 /** articles calendar **/
 .year_block {display: block; /*border-bottom: 1px solid #000;*/ overflow: hidden;}
 .monthes_block {float: left; width: 24%; margin-top: 0 !important;}
+
+.mainimg {
+	width: 280;
+}
